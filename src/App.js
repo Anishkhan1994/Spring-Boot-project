@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 import "./App.css";
 import Home from "./components/Home";
-import Courses from "./components/Courses";
 import Allcourses from "./components/AllCourses"
 import AddCourses from "./components/AddCouses";
 import { Container, Row, Col } from "reactstrap";
